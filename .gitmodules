@@ -1,0 +1,28 @@
+[submodule "packages/backend/chat"]
+	path = packages/backend/chat
+	url = git@github.com:Nyxtari/chat.git
+	branch = develop
+[submodule "packages/backend/users"]
+	path = packages/backend/users
+	url = git@github.com:Nyxtari/users.git
+	branch = develop
+[submodule "packages/backend/activities"]
+	path = packages/backend/activities
+	url = git@github.com:Nyxtari/activities.git
+	branch = develop
+[submodule "packages/backend/calendar"]
+	path = packages/backend/calendar
+	url = git@github.com:Nyxtari/calendar.git
+	branch = develop
+[submodule "packages/backend/character"]
+	path = packages/backend/character
+	url = git@github.com:Nyxtari/character.git
+	branch = develop
+[submodule "packages/backend/todos"]
+	path = packages/backend/todos
+	url = git@github.com:Nyxtari/todos.git
+	branch = develop
+[submodule "packages/frontend/assistant"]
+	path = packages/frontend/assistant
+	url = git@github.com:Nyxtari/assistant.git
+	branch = develop
